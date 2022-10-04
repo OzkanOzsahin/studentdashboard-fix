@@ -1,0 +1,65 @@
+h1 {
+  text-align: center;
+  color: white;
+  margin-left: 20px;
+  margin-top: 20px;
+}
+
+h2 {
+  text-align: center;
+  margin-top: 10px;
+}
+
+h3 {
+  text-align: center;
+  color: rgb(48, 46, 46);
+  font-weight: bold;
+}
+
+h4 {
+  text-align: center;
+  color: rgb(92, 82, 82);
+  font-size: 20px;
+}
+
+.student-list{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+}
+
+.line-chart {
+  margin-top: 145px;
+}
+
+.header {
+  background-color: #dee3e8;
+  display: flex;
+  justify-content: center;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  padding-right: 30px;
+}
+
+
+
+.footer {
+  background-color: #95999c;
+  height: 50px;
+}
+
+.student-filter {
+  margin-top: 39px;
+  background-color: rgb(218, 222, 227);
+  padding-top: 20px;
+  padding-bottom: 55px;
+}
+
+a {
+  text-decoration: none;
+}
+
+.data {
+  color: black;
+  font-weight: bold;
+}
